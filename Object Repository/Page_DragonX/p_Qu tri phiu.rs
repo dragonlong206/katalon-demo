@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Qu tri phiu</name>
+   <tag></tag>
+   <elementGuidId>916f1cd4-bc3a-4046-a9d7-577502d5b058</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button:nth-of-type(4) > p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='idTradeContent']/div[2]/div/button[4]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e5301b82-1e8d-4b35-ada0-5368b554048e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-font</name>
+      <type>Main</type>
+      <value>medium</value>
+      <webElementGuid>2b30dfa6-988b-4e60-abcd-10d965d0748c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-m</name>
+      <type>Main</type>
+      <value>b-0 r-3</value>
+      <webElementGuid>bd2ac47a-19a0-477a-a5d0-31b1a2c6b963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-text</name>
+      <type>Main</type>
+      <value>3.25 gray-600</value>
+      <webElementGuid>d9dc0d59-621e-4e7a-b6dc-35bc957fcc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Quỹ trái phiếu </value>
+      <webElementGuid>9d64731f-8d27-49d6-8e48-26f8280c3768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idTradeContent&quot;)/div[2]/div[1]/button[4]/p[2]</value>
+      <webElementGuid>9807d7a1-f807-47b0-986c-eb54bb4c8a71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idTradeContent']/div[2]/div/button[4]/p[2]</value>
+      <webElementGuid>89ca283d-f5a6-4cf5-bd2d-9e4521b86b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[8]</value>
+      <webElementGuid>43251c37-f8e0-4b34-8b5a-ea85c1c54019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển đổi'])[1]/following::p[8]</value>
+      <webElementGuid>77a2824f-f40d-48b9-b02c-0232a2514f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trở về'])[1]/preceding::p[1]</value>
+      <webElementGuid>4c3bd253-8255-4952-8cdb-04afb3b82601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[1]/preceding::p[1]</value>
+      <webElementGuid>e172ccdf-1b07-4117-8324-ea4781cfe279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/p[2]</value>
+      <webElementGuid>8b225fe2-fc1b-4e19-b19d-9970ec9b2f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Quỹ trái phiếu ' or . = ' Quỹ trái phiếu ')]</value>
+      <webElementGuid>c3ae289f-10d1-44e6-b85c-fae7ba9c264d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

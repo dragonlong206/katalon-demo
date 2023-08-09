@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đặt lệnh lần 2 show thông báo đã có lệnh đặt trước đó.</description>
+   <name>DatLenhLan2_HappyCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb87660-5804-4d28-ae40-03f080cad878</testCaseGuid>
+</TestCaseEntity>

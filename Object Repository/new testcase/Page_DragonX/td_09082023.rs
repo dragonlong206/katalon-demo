@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_09082023</name>
+   <tag></tag>
+   <elementGuidId>27003af4-09d8-4e46-9ead-017ec6918eeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div/div/table/tbody/tr[8]/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7e2601cc-2950-4f02-ad79-246a4af82dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>5948ce36-f75b-4034-afa5-7e1ceae629df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09/08/2023</value>
+      <webElementGuid>7de88626-9fea-4f89-850e-f6c7f265b552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[3]/div[@class=&quot;v-data-table c-data-table-header c-data-table-wrapper c-data-table-row-selectable c-data-table-order-smartinvest tw-flex tw-h-full tw-flex-col tw-justify-between v-data-table--fixed-header v-data-table--has-bottom theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[8]/td[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>0371b121-3449-4965-b1fb-68e6f5886184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div/div/table/tbody/tr[8]/td[6]</value>
+      <webElementGuid>8deb3f92-63d2-4532-bd0f-a68516ac8a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[8]/following::td[1]</value>
+      <webElementGuid>0f3fd98d-9886-48c4-a557-52fd73cceee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua'])[8]/following::td[3]</value>
+      <webElementGuid>ffe86918-26c0-4e35-ac7b-2b6c0f37eeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đang xử lý'])[5]/preceding::td[1]</value>
+      <webElementGuid>cafd002e-9fe2-4fad-a490-62764d786a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DCBC'])[1]/preceding::td[3]</value>
+      <webElementGuid>c66b2c3e-2c64-472f-81fd-cad3758c5a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[6]</value>
+      <webElementGuid>859ec387-7301-473f-a438-b110b629740d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '09/08/2023' or . = '09/08/2023')]</value>
+      <webElementGuid>30b53691-dba3-4371-84e6-fd6e260d8877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

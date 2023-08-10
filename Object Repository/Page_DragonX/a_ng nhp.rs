@@ -6,12 +6,12 @@
    <elementGuidId>008aa0c3-faac-4718-ab59-23b8aa147fa0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.v-btn.v-btn--is-elevated.v-btn--has-bg.v-btn--router.theme--light.v-size--default</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/header/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.v-btn.v-btn--is-elevated.v-btn--has-bg.v-btn--router.theme--light.v-size--default</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dd16330a-7a97-481e-9b14-614740f6a01c</webElementGuid>
+      <webElementGuid>fbf044a9-8cc2-4811-aafc-335299a7441c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/vi/login</value>
-      <webElementGuid>edd7ea41-a553-40be-8956-88dc9fc300d6</webElementGuid>
+      <webElementGuid>e10b52d5-9a70-483f-a383-88d7a9e65288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn v-btn--is-elevated v-btn--has-bg v-btn--router theme--light v-size--default</value>
-      <webElementGuid>bd289fe2-e036-4adc-a2f4-41273e52e6c6</webElementGuid>
+      <webElementGuid>00cbb357-c5e9-4111-a56d-c2289ba32713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tw-bg</name>
       <type>Main</type>
       <value>white</value>
-      <webElementGuid>aca57139-8a42-47ed-8c92-457bcb53660e</webElementGuid>
+      <webElementGuid>f064344a-fda1-4b24-ae08-71ce0fa849a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tw-border</name>
       <type>Main</type>
       <value>~ solid seagreen-700 rounded-lg</value>
-      <webElementGuid>0a407401-004c-44c3-80b9-784e151760c6</webElementGuid>
+      <webElementGuid>192312e7-8373-444d-81e4-dff92ae30ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tw-font</name>
       <type>Main</type>
       <value>semibold</value>
-      <webElementGuid>33185247-ac12-4067-b618-d4e121813dea</webElementGuid>
+      <webElementGuid>be2a7433-f16f-48fd-8f69-86b9f583ca40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tw-min</name>
       <type>Main</type>
       <value>w-30</value>
-      <webElementGuid>745c8cc7-fb40-421b-8c1f-871d89c0b069</webElementGuid>
+      <webElementGuid>8e552d51-5094-425b-a305-ee3e7d87ab4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>8e2de30f-8a74-45b3-8661-8caf07168903</webElementGuid>
+      <webElementGuid>0ee0468f-c99d-4a51-89ba-ebb800128695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/header[@class=&quot;v-sheet theme--light v-toolbar v-toolbar--flat v-app-bar v-app-bar--fixed&quot;]/div[@class=&quot;v-toolbar__content&quot;]/div[1]/div[2]/a[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg v-btn--router theme--light v-size--default&quot;]</value>
-      <webElementGuid>0381f48c-c31f-49aa-a323-d58fb5d2da73</webElementGuid>
+      <webElementGuid>58916856-c780-4b84-80ec-148109880dbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/header/div/div/div[2]/a</value>
-      <webElementGuid>6b10e101-087d-44bd-b0d4-676d0b179923</webElementGuid>
+      <webElementGuid>6ee9dd91-d02b-4359-bd5c-89599d4784dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='iSaving'])[1]/following::a[1]</value>
-      <webElementGuid>c090a66b-0db4-4ed6-b533-2fc9aeafbaf2</webElementGuid>
+      <webElementGuid>ae186ced-f2e9-4b2d-9c1f-72f4d4d79328</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trợ giúp'])[1]/following::a[2]</value>
-      <webElementGuid>15aa2f76-afa7-4d63-8e9f-58d51e06127a</webElementGuid>
+      <webElementGuid>da734c0e-3762-48ae-8cce-e111e56865cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>e7f60656-1a56-4e57-a9c0-4dafd35c0d40</webElementGuid>
+      <webElementGuid>9a2fe89a-9f8d-43c7-980a-4f13f3314b86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/vi/login')]</value>
-      <webElementGuid>c633b387-206b-4763-bb94-0e6792675b79</webElementGuid>
+      <webElementGuid>aef5f706-68fc-415a-9273-fd860e197725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>873eb6b2-3f82-4f0f-910f-0f654701a095</webElementGuid>
+      <webElementGuid>6ddf74bd-7255-4f36-b9da-9b879648b432</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/vi/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>5edf7471-4492-45b0-a132-0ecc4da43c34</webElementGuid>
+      <webElementGuid>18ad5061-a95d-4a3c-a771-3bf6df7dc07f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

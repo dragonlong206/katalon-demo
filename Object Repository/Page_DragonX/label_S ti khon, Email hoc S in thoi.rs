@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_S ti khon, Email hoc S in thoi</name>
+   <tag></tag>
+   <elementGuidId>3deab7c1-574a-42f2-90ad-e6bfc981e757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='idFormLogin']/div/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.v-label.v-label--active.theme--light.primary--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a6a228ef-ccaf-47bf-ab59-370460691682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input-115</value>
+      <webElementGuid>fd6acae5-3552-413d-a25d-202b1a4db46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-label v-label--active theme--light primary--text</value>
+      <webElementGuid>eef7ee65-8552-462d-8a18-1c853515e634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Số tài khoản, Email hoặc Số điện thoại</value>
+      <webElementGuid>b34d6995-6c34-4fd4-bb72-6939c69b8552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idFormLogin&quot;)/div[@class=&quot;v-input tw-rounded-lg c-text-field-h-10 c-text-field-details v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined primary--text c-text-field-username&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-text-field__slot&quot;]/label[@class=&quot;v-label v-label--active theme--light primary--text&quot;]</value>
+      <webElementGuid>bb9dae6c-f014-49c7-944a-e401c54910ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='idFormLogin']/div/div/div/div/label</value>
+      <webElementGuid>29e8d407-1bee-4c38-9e71-491d76ab5ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::label[1]</value>
+      <webElementGuid>816aca7e-31b1-4c4c-8db4-88688b178f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản'])[1]/following::label[1]</value>
+      <webElementGuid>8c4af69c-a68a-48fd-bd17-fecbb73e436b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::label[1]</value>
+      <webElementGuid>26891a05-93b5-4713-8086-ef79ae1291c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã PIN đăng nhập'])[1]/preceding::label[1]</value>
+      <webElementGuid>f33bedcd-c873-4225-9c92-9a98ec067dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Số tài khoản, Email hoặc Số điện thoại']/parent::*</value>
+      <webElementGuid>e4faa297-790f-4440-a16f-7408ee46a9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>83d37d9f-fb91-4f09-ae3f-2a45cdb669b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Số tài khoản, Email hoặc Số điện thoại' or . = 'Số tài khoản, Email hoặc Số điện thoại')]</value>
+      <webElementGuid>e73b01ca-1a29-4368-a03d-21a44a722e70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

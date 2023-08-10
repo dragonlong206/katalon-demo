@@ -6,11 +6,12 @@
    <elementGuidId>ac7757e7-0e9a-474c-bbdf-c81f5caaeb0a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div/div/div[2]/div/div[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@aria-selected=&quot;false&quot;][@role=&quot;tab&quot;]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>121ee4e3-06a2-48d2-bb04-e4c94e5db4d1</webElementGuid>
+      <webElementGuid>6eb3278c-0094-4080-be31-ddc7a488dcd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +30,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b6198ade-4dbd-423e-b44c-23f7bfcca1a2</webElementGuid>
+      <webElementGuid>39a9bbc2-0a5c-499a-a8ef-37d0db3583e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>86922606-7f5d-48f8-a1ff-de7cc0351164</webElementGuid>
+      <webElementGuid>f63ae9c8-7f8b-4785-a16c-69d1e1d59598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>7077f9a6-2304-4f2e-b3f7-6c98eac53ead</webElementGuid>
+      <webElementGuid>53e82b08-9cbd-47d0-a390-e6c1eca396c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>before:tw-hidden v-tab</value>
-      <webElementGuid>5ed096d2-d5ea-461e-9b94-9b397f87e696</webElementGuid>
+      <webElementGuid>e8e28e96-c272-43f7-90cd-e4f9e964a8b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +62,7 @@
       <name>tw-flex</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>e5cc8028-bde6-4166-a308-a049e35239e6</webElementGuid>
+      <webElementGuid>99492c2c-a094-4bf9-a60e-62ff6ecb22e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>tw-font</name>
       <type>Main</type>
       <value>tracking-normal</value>
-      <webElementGuid>5d71c7f3-7a9c-4e7a-9384-270c3b1ec0d2</webElementGuid>
+      <webElementGuid>6d1d1aed-93a0-4f71-819e-eacbf7a7af57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +78,7 @@
       <name>tw-text</name>
       <type>Main</type>
       <value>normal-case</value>
-      <webElementGuid>791d9f47-4ad1-4eb8-ad86-d2a57471798d</webElementGuid>
+      <webElementGuid>8175aafd-ba6a-44d5-b703-0511d59b6c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +86,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tài khoản </value>
-      <webElementGuid>e4cef2b0-0aa9-4369-b0c9-09963d2675e5</webElementGuid>
+      <webElementGuid>7cfec063-8aff-4f05-b479-560659614060</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;tw-flex tw-flex-col tw-flex-1 &lt;sm:tw-px-4&quot;]/div[2]/div[1]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-slide-group v-tabs-bar primary--text&quot;]/div[@class=&quot;v-slide-group__wrapper&quot;]/div[@class=&quot;v-slide-group__content v-tabs-bar__content&quot;]/div[@class=&quot;before:tw-hidden v-tab&quot;]</value>
-      <webElementGuid>37dd1280-bc8a-49fc-ab27-8e021293e35f</webElementGuid>
+      <webElementGuid>9ad87511-445f-40d0-8d14-a26e5379fce5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div/div/div/div[2]/div/div[4]</value>
-      <webElementGuid>2db18b6c-72f7-4dd3-9ea7-2a84b38caa3a</webElementGuid>
+      <webElementGuid>071cd71c-7ea6-48fc-a110-8fdc24cda459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quét mã QR'])[1]/following::div[2]</value>
-      <webElementGuid>c5d2eeb8-e73e-4cc6-9973-fd64ceddbbd4</webElementGuid>
+      <webElementGuid>f49e58b2-ec76-4e32-bc45-2eb736935582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng dụng DragonX'])[1]/following::div[10]</value>
-      <webElementGuid>31d8d654-f128-43f2-8bd7-9b56165ab6a8</webElementGuid>
+      <webElementGuid>15f4b708-84da-469a-9ae5-82bf73fcce3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::div[2]</value>
-      <webElementGuid>ab142218-6193-477f-af22-0eaa7751a4dd</webElementGuid>
+      <webElementGuid>b3259b4c-ca7a-4f83-a5a6-3407a5a2fefb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Số tài khoản, Email hoặc Số điện thoại'])[1]/preceding::div[2]</value>
-      <webElementGuid>a078ae4b-9c70-418c-98a8-76ce2e0b3802</webElementGuid>
+      <webElementGuid>90220030-11b9-4934-bf83-32a04e2d5583</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tài khoản']/parent::*</value>
-      <webElementGuid>43779dd7-e3a5-444b-8b3e-a4d4ec2e15d4</webElementGuid>
+      <webElementGuid>b8384f07-37c4-4170-92fa-b02577056b70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[4]</value>
-      <webElementGuid>ecb70949-9831-4e7b-91cf-1a2117743458</webElementGuid>
+      <webElementGuid>ea9c13ab-e1f7-4d61-9a7c-eafbf7974ee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Tài khoản ' or . = ' Tài khoản ')]</value>
-      <webElementGuid>fb77a81c-eca6-461a-9f68-21e564d52895</webElementGuid>
+      <webElementGuid>7d37432a-2ac2-4173-8c5c-6a4a77a8a239</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

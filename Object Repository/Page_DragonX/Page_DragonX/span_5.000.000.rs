@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_5.000.000</name>
+   <tag></tag>
+   <elementGuidId>b2685ad0-9b1b-4b5e-994f-37e73ee65dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='idTradeContent']/div[3]/div[2]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15d2c009-e341-469f-b585-62155cdb3fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>b601bbdf-eb38-454f-aaa4-279143da563f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 5.000.000₫ </value>
+      <webElementGuid>32375a52-3193-4e24-a0f4-0021c9b98982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idTradeContent&quot;)/div[3]/div[2]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>d4244e0b-6693-4dd0-88ac-bb4d66b51d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idTradeContent']/div[3]/div[2]/button[2]/span</value>
+      <webElementGuid>0fca0a0d-c14a-461a-af17-23423a75de36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng nhập số tiền đầu tư'])[1]/following::span[2]</value>
+      <webElementGuid>2572b804-ad72-4099-8fbd-7c59cfa22738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hàng tuần'])[1]/preceding::span[8]</value>
+      <webElementGuid>0d2ddf04-2c88-4399-92af-691e0f413a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hàng tháng'])[1]/preceding::span[8]</value>
+      <webElementGuid>a259c713-b113-4f3a-bd76-4d18fc36b38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5.000.000₫']/parent::*</value>
+      <webElementGuid>6f5c1253-e040-4f1c-8f0d-b6bc274cd089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>346c2208-0b48-4591-9a90-340e9c01b22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 5.000.000₫ ' or . = ' 5.000.000₫ ')]</value>
+      <webElementGuid>a8facaec-5fb1-4cdd-98af-4977c2b87121</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng nhp</name>
+   <tag></tag>
+   <elementGuidId>b84137da-fdaf-415e-b900-d584ff540f8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/header/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.v-btn.v-btn--is-elevated.v-btn--has-bg.v-btn--router.theme--light.v-size--default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f55c3091-48e0-4f25-9d0f-b712ee7ace8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/vi/login</value>
+      <webElementGuid>a10bcc8f-fa26-4959-b08d-d1fb375e9a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn v-btn--is-elevated v-btn--has-bg v-btn--router theme--light v-size--default</value>
+      <webElementGuid>437b51ac-d1ff-4401-af1a-69d328aa33af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-bg</name>
+      <type>Main</type>
+      <value>white</value>
+      <webElementGuid>ee5ac743-b0ba-4c58-b8c0-4a4035ca3752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-border</name>
+      <type>Main</type>
+      <value>~ solid seagreen-700 rounded-lg</value>
+      <webElementGuid>fb196c95-b0c4-4815-9d90-9674731ca737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-font</name>
+      <type>Main</type>
+      <value>semibold</value>
+      <webElementGuid>60b9bd3f-7489-47a5-af7f-f4a7588fe1bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-min</name>
+      <type>Main</type>
+      <value>w-30</value>
+      <webElementGuid>271db55d-7cd9-4b02-937e-fc90cffcfd1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>3d9f17fe-dee3-4c6b-bd8b-928ef85c1f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/header[@class=&quot;v-sheet theme--light v-toolbar v-toolbar--flat v-app-bar v-app-bar--fixed&quot;]/div[@class=&quot;v-toolbar__content&quot;]/div[1]/div[2]/a[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg v-btn--router theme--light v-size--default&quot;]</value>
+      <webElementGuid>eb074e04-0382-4811-ad35-54c163aa1004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/header/div/div/div[2]/a</value>
+      <webElementGuid>b58f9ac9-131c-4968-a9c5-a0de66e7ddae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iSaving'])[1]/following::a[1]</value>
+      <webElementGuid>d092ae8b-7007-497f-ab94-7c927151b6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trợ giúp'])[1]/following::a[2]</value>
+      <webElementGuid>dbbbff3d-c9c5-48bd-a46d-6e575a81a36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
+      <webElementGuid>3cad83d8-fe14-42f6-b892-ff6d58bd9636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/vi/login')]</value>
+      <webElementGuid>d570b798-d02a-4e85-803e-4b0e8245b862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>73ab7b01-c37a-4e89-aa57-ed96c8909cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/vi/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
+      <webElementGuid>3ec0fc26-d23f-4923-a636-393f27bfe89c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

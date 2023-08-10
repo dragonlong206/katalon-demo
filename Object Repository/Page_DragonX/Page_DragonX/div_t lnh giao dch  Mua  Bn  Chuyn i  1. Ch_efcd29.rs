@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_t lnh giao dch  Mua  Bn  Chuyn i  1. Ch_efcd29</name>
+   <tag></tag>
+   <elementGuidId>2cff31e3-3d01-4094-bb5b-c4b2134c4abc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-main__wrap > div > div > div:nth-of-type(2) > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b6a873e-570d-4ec0-87b9-6371566f3041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-flex</name>
+      <type>Main</type>
+      <value>~ 1 col</value>
+      <webElementGuid>3d49ff1b-f9f1-4517-ac36-faa638215411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-p</name>
+      <type>Main</type>
+      <value>t-6 l-14</value>
+      <webElementGuid>51982855-041e-438b-8cef-0c0268afd1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Đặt lệnh giao dịch  Mua  Bán  Chuyển đổi  1. Chọn sản phẩm  DCIP  0 CCQ  ~0₫  DCBF  16,75 CCQ  ~409.136₫  DCDS  0 CCQ  ~0₫  2. Chọn tài khoản bán  iSAVING  Tài khoản chính  3. Giá trị bán ​Số tiền bán dự kiến (đ)​Giá trị bán (CCQ) Tối thiểu 2 CCQ  Bán tất cả </value>
+      <webElementGuid>a84c2cd5-8c7c-4730-82ec-9bbbfa896e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[1]/div[2]/div[1]</value>
+      <webElementGuid>39bc6892-da86-4f3a-9687-06c8114edc0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div</value>
+      <webElementGuid>5999d24b-2be6-46fe-a220-7cf0ab2ad4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::div[14]</value>
+      <webElementGuid>c3d61093-5787-4f13-ad46-352449b43c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>e76744f2-e07e-4a8c-8f9d-e4ca74362fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Đặt lệnh giao dịch  Mua  Bán  Chuyển đổi  1. Chọn sản phẩm  DCIP  0 CCQ  ~0₫  DCBF  16,75 CCQ  ~409.136₫  DCDS  0 CCQ  ~0₫  2. Chọn tài khoản bán  iSAVING  Tài khoản chính  3. Giá trị bán ​Số tiền bán dự kiến (đ)​Giá trị bán (CCQ) Tối thiểu 2 CCQ  Bán tất cả ' or . = ' Đặt lệnh giao dịch  Mua  Bán  Chuyển đổi  1. Chọn sản phẩm  DCIP  0 CCQ  ~0₫  DCBF  16,75 CCQ  ~409.136₫  DCDS  0 CCQ  ~0₫  2. Chọn tài khoản bán  iSAVING  Tài khoản chính  3. Giá trị bán ​Số tiền bán dự kiến (đ)​Giá trị bán (CCQ) Tối thiểu 2 CCQ  Bán tất cả ')]</value>
+      <webElementGuid>8151e6d5-6efa-48bb-ab0c-62d8b1c7979f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

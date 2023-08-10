@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bn</name>
+   <tag></tag>
+   <elementGuidId>22b1d933-1cad-497f-940e-c5281f245411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>916e2d39-4cb7-4052-9453-4dbb6fac8275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>3cdf427e-7aae-48a4-9caf-02f047891ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bán </value>
+      <webElementGuid>d3770338-1b1e-4568-a63a-af47258379ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg v-btn--router theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>5343187e-3bdf-4e19-949e-38af3702a817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div/a[2]/span</value>
+      <webElementGuid>8ff7699d-d397-4139-a610-4feab8f67049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua'])[1]/following::span[1]</value>
+      <webElementGuid>e35734e8-b4d1-4357-bfe3-c34546cbf768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt lệnh giao dịch'])[1]/following::span[2]</value>
+      <webElementGuid>0b3662cc-676c-4f92-8ed3-6a2aed9fe5b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển đổi'])[1]/preceding::span[3]</value>
+      <webElementGuid>f2ae209b-98c2-4ee1-82da-6ce945dd7e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::span[4]</value>
+      <webElementGuid>92071c72-4b9d-493f-bd29-6394d89b236b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bán']/parent::*</value>
+      <webElementGuid>cfd90f92-4e78-4792-ae6d-2ee2d034e86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>48365e6f-a769-4bbf-bd7a-a3efbe932ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Bán ' or . = ' Bán ')]</value>
+      <webElementGuid>1b863ca0-68ee-41dc-8e2b-c83abfc6ec7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

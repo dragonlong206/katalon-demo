@@ -6,12 +6,12 @@
    <elementGuidId>4f0aedb9-a4c2-4ed6-a84e-cef201ba6571</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-151--0</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@class='otp-field-box--0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input-151--0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f318ff59-54a6-4ed4-8843-928335a1fc47</webElementGuid>
+      <webElementGuid>6854b128-55b6-41a2-8f05-68dac12b59c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>one-time-code</value>
-      <webElementGuid>5ce558d4-3b7c-4bc4-abaf-19164885cf6c</webElementGuid>
+      <webElementGuid>5fa82717-6922-416c-a4aa-1498f9d46582</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>59081440-5a4c-4e77-9f2e-1d4145f8a93f</webElementGuid>
+      <webElementGuid>720f8252-1ce7-4ce8-acc3-55ee9f6ad0b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-151--0</value>
-      <webElementGuid>5575929d-2328-42e4-908e-42f873c65338</webElementGuid>
+      <webElementGuid>05d369e0-670b-49d9-99af-bf101844cabb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>otp-field-box--0</value>
-      <webElementGuid>371479f7-675f-468d-946c-178fde5f4d17</webElementGuid>
+      <webElementGuid>447c5077-ef07-46dc-b6d4-d36e0eaf4deb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4bac8579-d22a-4d98-a016-6ef328dffc83</webElementGuid>
+      <webElementGuid>ca14a911-bb6a-4e68-9201-000342fd3ae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-151--0&quot;)</value>
-      <webElementGuid>8ad6eae4-56e7-41c2-830d-ecc89fb2eff6</webElementGuid>
+      <webElementGuid>cb6bd2d1-5b16-448f-9f87-28274e952df8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-151--0']</value>
-      <webElementGuid>ca4dd4c1-c26c-463e-825e-0658b2647328</webElementGuid>
+      <webElementGuid>aeee2604-04fa-4196-9c19-e5930e6c52c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div[2]/div/div/div[2]/form/div/div/div/div/div/input</value>
-      <webElementGuid>b1b22494-2b3c-4b67-9c44-a206f69878d1</webElementGuid>
+      <webElementGuid>e03ea212-c924-4381-9b85-e48b041609b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/div/div/input</value>
-      <webElementGuid>86e9ad92-faff-4884-9320-0f54584b8218</webElementGuid>
+      <webElementGuid>80670829-f6c1-40aa-b2ee-679a24da6204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @id = 'input-151--0']</value>
-      <webElementGuid>3e586403-5825-478b-8735-f67cc51247ee</webElementGuid>
+      <webElementGuid>e1cdd5a7-8038-44c5-b909-d17dec93f6e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

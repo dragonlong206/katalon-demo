@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hot ng</name>
+   <tag></tag>
+   <elementGuidId>5452005f-a104-45fc-b0cc-6af2d3a54cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div/div/table/tbody/tr/td[7]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.tw-text-seagreen-600.tw-bg-seagreen-600.tw-bg-opacity-10.tw-border-seagreen-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f872b583-277c-4597-8216-0e7e006b88e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-text</name>
+      <type>Main</type>
+      <value>3.25</value>
+      <webElementGuid>f387953b-a4c9-4cec-b4f6-ce85f91737c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-p</name>
+      <type>Main</type>
+      <value>y-1 x-2</value>
+      <webElementGuid>1e7aa9fa-b710-4736-b70f-59f984db1f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-rounded</name>
+      <type>Main</type>
+      <value>~</value>
+      <webElementGuid>cc2402b7-e00c-4e43-9ded-ffed7c02b78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tw-text-seagreen-600 tw-bg-seagreen-600 tw-bg-opacity-10 tw-border-seagreen-600</value>
+      <webElementGuid>e4c3bf0c-6e51-4e83-9958-b2d34f6c486e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hoạt động </value>
+      <webElementGuid>3e8fe331-8421-40c8-955b-96bbb71cc15b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[3]/div[@class=&quot;v-data-table c-data-table-header c-data-table-wrapper c-data-table-row-selectable c-data-table-order-smartinvest tw-flex tw-h-full tw-flex-col tw-justify-between v-data-table--fixed-header v-data-table--has-bottom theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-start&quot;]/span[@class=&quot;tw-text-seagreen-600 tw-bg-seagreen-600 tw-bg-opacity-10 tw-border-seagreen-600&quot;]</value>
+      <webElementGuid>e797e554-f8c4-4e12-a3db-e1a13fda3f1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div/div/table/tbody/tr/td[7]/span</value>
+      <webElementGuid>1c944d95-c118-4f7d-8a27-7eaa24caa9cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[2]</value>
+      <webElementGuid>70ca6d48-ac4d-4a8b-9fd9-4879dcdc48aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua'])[1]/following::span[4]</value>
+      <webElementGuid>ac8901eb-4183-41c2-9990-8dffa542c209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DCIP'])[1]/preceding::span[1]</value>
+      <webElementGuid>1a0019b2-8351-47f7-9ed3-4052ac4bece5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua'])[2]/preceding::span[1]</value>
+      <webElementGuid>e81c370b-ad97-41fd-b032-4dfcc7da94fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hoạt động']/parent::*</value>
+      <webElementGuid>676b2f07-7606-460b-a868-e0ef930dc85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/span</value>
+      <webElementGuid>cd2726d3-b326-48ea-975b-b78da28933f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Hoạt động ' or . = ' Hoạt động ')]</value>
+      <webElementGuid>d21936f0-6fac-4fc8-a08f-d93443f74426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

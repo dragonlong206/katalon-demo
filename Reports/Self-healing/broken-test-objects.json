@@ -9,6 +9,156 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/button_ng_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/Page_DragonX/input_Gi tr bn (CCQ)_input-493",
+      "brokenLocator": "//input[@id\u003d\u0027input-493\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027idTradeContent\u0027]/div[3]/form/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/Page_DragonX/input_Gi tr bn (CCQ)_input-493_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/input_Gi tr bn (CCQ)_v-input__slot",
+      "brokenLocator": "//input[@class\u003d\u0027v-input__control\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027idTradeContent\u0027]/div[3]/form/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/input_Gi tr bn (CCQ)_v-input__slot_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/input_v-text-field__slot",
+      "brokenLocator": "//input[@class\u003d\u0027v-text-field__slot\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027idTradeContent\u0027]/div[3]/form/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/input_v-text-field__slot_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_DragonX/span_Xc nhn",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[5]/div/div/div[3]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Xác thực giao dịch\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder/Page_DragonX/span_Xc nhn_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/input__otp__0",
+      "brokenLocator": "//input[@id\u003d\u0027input-151--0\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/input__otp__0_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/svg_()_svg-icon svg-fill",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Thông tin đầu tư\u0027])[1]/following::*[name()\u003d\u0027svg\u0027][1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027DCDS\u0027])[2]/preceding::*[name()\u003d\u0027svg\u0027][1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/svg_()_svg-icon svg-fill_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/input__otp--1",
+      "brokenLocator": "//input[@id\u003d\u0027input-151--1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027app\u0027]/div[3]/div/div/div[2]/div/div/div[2]/form/div/div[2]/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/input__otp--1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/input__otp--2",
+      "brokenLocator": "//input[@class\u003d\u0027otp-field-box-2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027input-151--2\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/input__otp--2_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_()_v-btn__content",
+      "brokenLocator": "//div[@class\u003d\u0027v-btn__content\u0027]/div/div/div/button/div[2]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027idDetailInformation\u0027]/div/div/div/button/div[2]/button/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_()_v-btn__content_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/div_Ti khon",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/main/div/div/div[2]/div[2]/div/div/div/div[2]/div/div[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Quét mã QR\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/div_Ti khon_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_Xc nhn",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[4]/div/div/div[3]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Xác thực giao dịch\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_Xc nhn_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/button_iSAVING",
+      "brokenLocator": "//div[@id\u003d\u0027idTradeContent\u0027]/div[2]/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_Thng tin u t_v-btn__content",
+      "brokenLocator": "//div[@id\u003d\u0027idDetailInformation\u0027]/div/div/div/button/div[2]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Quỹ\u0027])[2]/preceding::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_Thng tin u t_v-btn__content_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_()_v-btn__content",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[2]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Quỹ\u0027])[2]/preceding::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_()_v-btn__content_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_Xc nhn - Huy lenh",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[5]/div/div/div[3]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Xác thực giao dịch\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_Xc nhn - Huy lenh_neighbor.png"
     }
   ]
 }

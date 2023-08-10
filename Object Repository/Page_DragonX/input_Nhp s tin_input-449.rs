@@ -6,12 +6,12 @@
    <elementGuidId>12060153-dbab-4213-b0ac-8f9f2f35e321</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-449</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@class=&quot;v-input--selection-controls__input&quot;]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input-449</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7c0fc556-d45b-41c4-b692-dfe02196d2be</webElementGuid>
+      <webElementGuid>2f4afa12-5d65-42fa-a5ea-27f40427576a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-checked</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5b4d034b-ac96-42f5-b4f3-227419fd604d</webElementGuid>
+      <webElementGuid>bb3e3c2a-e91a-4938-94c9-f3b4a53ddb26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-449</value>
-      <webElementGuid>4db0fe15-806a-4e2c-8b3c-b4ecda4359ff</webElementGuid>
+      <webElementGuid>a2c25e85-ade3-4aca-9f7c-8c128a4409d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>switch</value>
-      <webElementGuid>5a717748-3b87-4df9-a1e4-3a02e42b6865</webElementGuid>
+      <webElementGuid>d6d7c792-1054-4911-805e-378e19a2721d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>c8629399-7e93-4c5b-a411-93a7bdd0edfc</webElementGuid>
+      <webElementGuid>32d41120-333c-4ab1-aafb-861149ce4037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3955ad6b-c2cd-444c-87bb-78bdd70f00cc</webElementGuid>
+      <webElementGuid>5a0c32ce-015d-4307-bb6a-f630bdd8159d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-449&quot;)</value>
-      <webElementGuid>bbe7a70b-c25b-4868-b072-e3cc6bb95b2a</webElementGuid>
+      <webElementGuid>6f13ed5a-ecd0-48e5-8e22-60d8308af75a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-449']</value>
-      <webElementGuid>8422f2de-ef8b-4881-a401-c70cf02c2442</webElementGuid>
+      <webElementGuid>f4f21fae-a5c3-403d-a500-76391351743a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='idSmartInvestToggle']/div/div/div/div/div/input</value>
-      <webElementGuid>c19f9c48-a2a7-44b0-9083-8232cc60f2bb</webElementGuid>
+      <webElementGuid>85497734-fe63-4477-9a55-21d66229cf19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/input</value>
-      <webElementGuid>fe3dd294-1f70-4750-b736-2eb480710776</webElementGuid>
+      <webElementGuid>a1cb1462-0185-4698-94d4-b6d2718a4ef3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-449' and @type = 'checkbox']</value>
-      <webElementGuid>c55d6fc9-acac-447e-82cd-29fcb9c61ef9</webElementGuid>
+      <webElementGuid>cd9a6bd9-066c-4049-9fb1-b66e37f73bfa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

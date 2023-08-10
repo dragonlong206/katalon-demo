@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thng tin u t_v-btn__content</name>
+   <tag></tag>
+   <elementGuidId>9ba4e2f7-9342-4b8c-be48-f7aac4be06a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='idDetailInformation']/div/div/div/button/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-expansion-panel-header__icon.v-expansion-panel-header__icon--disable-rotate > button.v-btn.v-btn--icon.v-btn--round.theme--light.v-size--default > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24fa86c2-aec3-4ca7-ae18-3215109937ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>74ff446a-72c9-4204-a90d-ada58d56ecb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idDetailInformation&quot;)/div[@class=&quot;tw-flex-col-reverse&quot;]/div[@class=&quot;v-item-group theme--light v-expansion-panels v-expansion-panels--accordion v-expansion-panels--flat&quot;]/div[@class=&quot;v-expansion-panel v-expansion-panel--active tw-rounded-3xl&quot;]/button[@class=&quot;v-expansion-panel-header v-expansion-panel-header--active&quot;]/div[@class=&quot;v-expansion-panel-header__icon v-expansion-panel-header__icon--disable-rotate&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>b79edfc7-dd28-425e-8359-34d4638094ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idDetailInformation']/div/div/div/button/div[2]/button/span</value>
+      <webElementGuid>80e1ee8c-799d-48c8-a388-2ee26b5fdddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin đầu tư'])[1]/following::span[1]</value>
+      <webElementGuid>a8bb813c-927d-4feb-9371-5e913a376368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không hoạt động'])[2]/following::span[2]</value>
+      <webElementGuid>0896ff11-2617-4122-a9e5-695900aab0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quỹ'])[2]/preceding::span[3]</value>
+      <webElementGuid>b2f6f68d-654c-44f1-b0ae-ca94f740396e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DCDS'])[6]/preceding::span[3]</value>
+      <webElementGuid>f18f08a1-d909-4eff-95d2-cd2dd1271125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>bb8b9409-4ba9-43d3-9ba5-e2d7f5012569</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

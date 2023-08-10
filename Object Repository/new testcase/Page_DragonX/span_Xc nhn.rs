@@ -6,12 +6,12 @@
    <elementGuidId>25fb98d4-cef0-417b-821a-fd57af31cb24</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div[4]/div/div/div[3]/button/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.tw-btn-primary.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default > span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='idFormRequestOTP']/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4f74bf00-0026-4b3a-be55-97754765689f</webElementGuid>
+      <webElementGuid>edfd0df6-e3ca-401b-ac6d-3daebd3aa853</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>271bc941-c215-4fd1-be8c-7556fd6e72f6</webElementGuid>
+      <webElementGuid>fc5b44bd-2776-4597-acc2-7b2f67d54082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,18 +38,82 @@
       <name>text</name>
       <type>Main</type>
       <value> Xác nhận </value>
-      <webElementGuid>da1c38ec-e66a-498f-88ea-99ed14d34f62</webElementGuid>
+      <webElementGuid>608ccee0-e1fa-47ad-b756-88fc9c7d573c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog tw-rounded-lg tw-shadow-none tw-min-w-90 tw-w-auto v-dialog--active v-dialog--persistent v-dialog--scrollable&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions&quot;]/button[@class=&quot;tw-btn-primary v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>70e92445-8ffe-4034-8fee-061d5bad31a8</webElementGuid>
+      <value>id(&quot;idFormRequestOTP&quot;)/button[@class=&quot;tw-btn-primary v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>ad62ae6a-12f6-4d0a-9187-2c93aa88ed7f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='idFormRequestOTP']/button/span</value>
+      <webElementGuid>b78183c1-17b7-4adb-98a7-6685ecd8ef8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số tài khoản, Email hoặc Số điện thoại'])[1]/following::span[1]</value>
+      <webElementGuid>f1204b1a-da26-4da7-a27f-6824e607c697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[1]</value>
+      <webElementGuid>567eb20a-29e3-4add-b1c7-d72a7c4a61ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin chương trình'])[1]/preceding::span[3]</value>
+      <webElementGuid>706820ce-9240-4c8a-bbbd-7f30d144683a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty Cổ Phần Quản Lý Quỹ Dragon Capital Việt Nam (DCVFM)'])[1]/preceding::span[3]</value>
+      <webElementGuid>7354a37f-acf3-4fb5-8fb4-0c24e6e5d437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xác nhận']/parent::*</value>
+      <webElementGuid>d4c516ef-b689-431f-aa60-3df7b008ed8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>5f81827d-3f04-453c-81c2-c9ba50df4073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Xác nhận ' or . = ' Xác nhận ')]</value>
+      <webElementGuid>4a4ce9ae-8ccf-47ea-95f5-20f65de8e53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -67,25 +131,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Xác nhận']/parent::*</value>
-      <webElementGuid>1404619a-ef94-4575-a3c6-38f2809b3193</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button/span</value>
       <webElementGuid>9a4b5350-5d66-479a-bc87-9b3fb4f3313a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = ' Xác nhận ' or . = ' Xác nhận ')]</value>
-      <webElementGuid>1365953b-a583-4486-ba27-d0f496fd0846</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

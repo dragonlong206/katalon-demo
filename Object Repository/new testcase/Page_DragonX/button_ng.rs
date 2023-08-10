@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[23]</value>
+         <value>//*[@id=&quot;idFormRequestOTP&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.swal2-confirm.btn.tw-font-semibold.tw-text-seagreen-700</value>
+         <value>button.swal2-confirm.btn.tw-font-semibold.tw-text-red-400</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>669c7357-35e9-4a5c-96be-4a2700ef227d</webElementGuid>
+      <webElementGuid>624261a4-0310-4292-9f9c-fea8bfa1b952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a88acd22-7bcd-43c5-8570-7c940dd7745d</webElementGuid>
+      <webElementGuid>fe977f37-3bad-4a07-a4ae-82c19d3d2666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>swal2-confirm btn tw-font-semibold tw-text-seagreen-700</value>
-      <webElementGuid>e4fd70a6-29c8-4491-aeb6-46bc0e42c466</webElementGuid>
+      <value>swal2-confirm btn tw-font-semibold tw-text-red-400</value>
+      <webElementGuid>d02d5121-6b34-455c-8cbb-35baea23e13c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Đóng</value>
-      <webElementGuid>c13132bf-06fe-4494-8ff4-4236bb13559d</webElementGuid>
+      <webElementGuid>96cfd2b9-4921-45cb-afb3-f5785b3a6731</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm btn tw-font-semibold tw-text-seagreen-700&quot;]</value>
-      <webElementGuid>e7cc6712-8c65-40c8-bc3a-f93616602031</webElementGuid>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm btn tw-font-semibold tw-text-red-400&quot;]</value>
+      <webElementGuid>2d35e072-1108-4c1e-a023-2c34e606804e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[23]</value>
-      <webElementGuid>de59a2ca-f664-4a66-9ce1-08fbe7ab16e0</webElementGuid>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>b52be1e8-3c7c-4a91-91c3-88300ff5f296</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
-      <webElementGuid>b7eaa6d8-8bf9-4d28-b5c3-a4b3da3ae67f</webElementGuid>
+      <webElementGuid>4fdcc274-904a-46f7-aa41-5f3681e286a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trợ giúp?'])[1]/following::button[2]</value>
-      <webElementGuid>2b428a9f-bdea-4102-b770-70558dfff65c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên đăng nhập hoặc mật khẩu không chính xác, vui lòng kiểm tra lại'])[1]/following::button[3]</value>
+      <webElementGuid>1a20c752-a501-4fc1-b2d3-e517a476af6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đóng']/parent::*</value>
-      <webElementGuid>77041a55-0e08-4d87-83b6-01390892cef3</webElementGuid>
+      <webElementGuid>50e484fa-1b1f-4ac0-a580-0b2811806cb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/button[3]</value>
-      <webElementGuid>3c19d26e-b95b-474b-a0f2-cd74b3835029</webElementGuid>
+      <value>//button[3]</value>
+      <webElementGuid>ebd81c68-59ea-460a-9d44-50f7a2b20d89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Đóng' or . = 'Đóng')]</value>
-      <webElementGuid>cd3640e0-b376-4a15-87ae-8fa4f83d5029</webElementGuid>
+      <webElementGuid>c3442ef8-accc-4880-8e0c-aa97466c5f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[23]</value>
+      <webElementGuid>9492c16c-fd2e-4404-baac-acad728f7bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trợ giúp?'])[1]/following::button[2]</value>
+      <webElementGuid>8da55bfd-210f-4d4f-b654-43ac524c8d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button[3]</value>
+      <webElementGuid>ab78465a-cb6b-4386-a09d-e1a13424ed31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

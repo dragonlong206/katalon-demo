@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ng dng DragonX  Qut m QR  Ti khon S ti _a30b7d</name>
+   <tag></tag>
+   <elementGuidId>db79537e-8755-4df4-adae-8c053e3c63ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc55fef0-dc7d-40ac-95d8-2f4f18137890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-flex</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>1ac2efd2-589c-4492-b541-d1c5c697ae7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-max-w</name>
+      <type>Main</type>
+      <value>150 2xl:150</value>
+      <webElementGuid>5b279514-5bc6-4e05-9def-672fff51cf59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-pos</name>
+      <type>Main</type>
+      <value>relative</value>
+      <webElementGuid>60f6d756-4651-4db3-b9b7-b02802ea54ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-w</name>
+      <type>Main</type>
+      <value>full</value>
+      <webElementGuid>471eca24-a759-4c07-813a-1c0d4b80d39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ứng dụng DragonX  Quét mã QR  Tài khoản ​Số tài khoản, Email hoặc Số điện thoại​Mã PIN đăng nhập6 / 6  Ghi nhớ tài khoản  Quên mã PIN đăng nhập?  Đăng nhập  Sử dụng ứng dụng DragonX để quét mã QR  1  Mở DragonX trên điện thoại  2  Chọn biểu tượng QR ở màn hình trang chủ  3  Hướng điện thoại vào mã QR ở trên </value>
+      <webElementGuid>db126cc0-fab0-407b-b185-c463fc2513c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;tw-flex tw-flex-col tw-flex-1 &lt;sm:tw-px-4&quot;]/div[2]/div[1]</value>
+      <webElementGuid>1fd460f4-3534-4e55-b7fe-773a424dab98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>e4b2daf8-c387-4e03-b1f6-1dac19a1a21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::div[10]</value>
+      <webElementGuid>820bef10-136e-4ed6-8edb-8902af5f481c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div</value>
+      <webElementGuid>3182f549-3fc0-4457-8f3a-ea2dfd6760f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Ứng dụng DragonX  Quét mã QR  Tài khoản ​Số tài khoản, Email hoặc Số điện thoại​Mã PIN đăng nhập6 / 6  Ghi nhớ tài khoản  Quên mã PIN đăng nhập?  Đăng nhập  Sử dụng ứng dụng DragonX để quét mã QR  1  Mở DragonX trên điện thoại  2  Chọn biểu tượng QR ở màn hình trang chủ  3  Hướng điện thoại vào mã QR ở trên ' or . = ' Ứng dụng DragonX  Quét mã QR  Tài khoản ​Số tài khoản, Email hoặc Số điện thoại​Mã PIN đăng nhập6 / 6  Ghi nhớ tài khoản  Quên mã PIN đăng nhập?  Đăng nhập  Sử dụng ứng dụng DragonX để quét mã QR  1  Mở DragonX trên điện thoại  2  Chọn biểu tượng QR ở màn hình trang chủ  3  Hướng điện thoại vào mã QR ở trên ')]</value>
+      <webElementGuid>d3faa896-6671-4ad1-8514-36d15fb61e0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>38b866ab-433b-4b45-a4a1-913407011ea0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>svg.svg-icon.svg-fill > path</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>div.tw-relative.v-card.v-sheet.theme--light > button.v-btn.v-btn--icon.v-btn--round.theme--light.v-size--default > span.v-btn__content > svg.svg-icon.svg-fill > path</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>2ff6b648-5c1f-4629-b697-6ba1cc6350f6</webElementGuid>
+      <webElementGuid>be9dc9e9-57a5-45b4-af92-3e352b962cf6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>pid</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>648c83dd-f239-4ac2-b861-7cb47d981455</webElementGuid>
+      <webElementGuid>524c8a6b-22e1-44df-90e3-989a02db2e87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>d</name>
       <type>Main</type>
-      <value>M18 6 6 18M6 6l12 12</value>
-      <webElementGuid>5cf37d41-9a06-4b95-bdfd-ab805bcb630d</webElementGuid>
+      <value>M3 5.682C3 4.2 4.2 3 5.682 3h8.636C15.8 3 17 4.2 17 5.682v8.636C17 15.8 15.8 17 14.318 17H5.682A2.682 2.682 0 0 1 3 14.318V5.682zm10.854 2.172a.5.5 0 0 0-.708-.708L8.5 11.793l-1.646-1.647a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0l5-5z</value>
+      <webElementGuid>00c84658-433f-4359-a31a-3f6c6941dbe2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>_stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>aa037201-642a-44b0-850f-409c1ff4d149</webElementGuid>
+      <webElementGuid>15791fa8-1aa3-48ed-bb61-5c37ff2a7e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>aadab3c7-8e26-4ff5-8f05-503b7f5564f6</webElementGuid>
+      <webElementGuid>517443a8-cd14-43d5-a69b-6abe6c767355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>a4f74ef4-3a27-4d71-b689-a8481b2363e9</webElementGuid>
+      <webElementGuid>290eb919-a565-4bab-91e9-64a97f8aa472</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,14 +70,22 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>01660575-ad9e-41e5-853e-e686de6b4529</webElementGuid>
+      <webElementGuid>a8c2345b-19c2-4cd3-8663-69ba059cabdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-menu__content theme--light v-menu__content--fixed menuable__content__active tw-rounded-lg tw-min-w-0 tw-w-72&quot;]/div[@class=&quot;tw-relative v-card v-sheet theme--light&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]/svg[@class=&quot;svg-icon svg-fill&quot;]/path[1]</value>
-      <webElementGuid>ba254ddf-c7a5-42b3-8493-94b2dee49f0e</webElementGuid>
+      <value>id(&quot;idFormLogin&quot;)/div[3]/div[1]/div[@class=&quot;v-input tw-pt-0 tw-mt-0 c-checkbox-hide-icon v-input--hide-details v-input--is-label-active v-input--is-dirty theme--light v-input--selection-controls v-input--checkbox primary--text&quot;]/div[@class=&quot;v-input__prepend-outer&quot;]/button[@class=&quot;v-btn v-btn--icon v-btn--round theme--light v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]/svg[@class=&quot;svg-icon svg-fill&quot;]/path[1]</value>
+      <webElementGuid>56b2f0c5-7f5c-4353-b66e-2677a3dd95b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>8f3af4b3-e625-4113-9434-59b2e618ddc7</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

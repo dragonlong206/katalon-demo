@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Qun m PIN ng nhp</name>
+   <tag></tag>
+   <elementGuidId>fcab097b-9c13-491a-b8c0-79a328f33d72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='idFormLogin']/div[3]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c6eb2b6a-87fa-49a0-a829-8b6933449902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/vi/forgot-password</value>
+      <webElementGuid>6c048d9d-1331-4fe1-9b51-346168ab8930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-m</name>
+      <type>Main</type>
+      <value>t-0.3</value>
+      <webElementGuid>54d09c76-9b50-4a72-b91d-a63404ab5bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tw-text</name>
+      <type>Main</type>
+      <value>3.25 gray-900 hover:underline</value>
+      <webElementGuid>01dcaf64-56a6-4c99-906e-dcaa541d5bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Quên mã PIN đăng nhập? </value>
+      <webElementGuid>07f7fe65-30a9-4133-9e1b-9062e26ffbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idFormLogin&quot;)/div[3]/div[2]/a[1]</value>
+      <webElementGuid>64c69d6c-4443-4b29-ae02-5ad784cc609b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='idFormLogin']/div[3]/div[2]/a</value>
+      <webElementGuid>632e501c-616a-4ace-9474-4168a02ab518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quên mã PIN đăng nhập?')]</value>
+      <webElementGuid>5b78dee0-de97-4dec-9639-a5372738dae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ghi nhớ tài khoản'])[1]/following::a[1]</value>
+      <webElementGuid>b1ce4484-5d5d-4955-b11f-d5261e5fb1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã PIN đăng nhập'])[1]/following::a[1]</value>
+      <webElementGuid>433a9a2d-daee-41ec-93a9-7c1671e0e546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/preceding::a[1]</value>
+      <webElementGuid>bd740b35-af43-48ab-9be4-d8622d980644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin chương trình'])[1]/preceding::a[1]</value>
+      <webElementGuid>37f938d2-b6dd-4c7b-b0b1-7fbb63555db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quên mã PIN đăng nhập?']/parent::*</value>
+      <webElementGuid>9ef9a9e5-f714-45c5-81e7-ef85347ae971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/vi/forgot-password')]</value>
+      <webElementGuid>bd57b129-3644-4544-9bf9-9421af4dd312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>65f6c398-444e-4fc7-8916-100a3f441ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/vi/forgot-password' and (text() = ' Quên mã PIN đăng nhập? ' or . = ' Quên mã PIN đăng nhập? ')]</value>
+      <webElementGuid>adb4eb63-a744-4556-9bf0-831cf66b3269</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

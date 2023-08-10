@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[25]</value>
+         <value>//div[@class=&quot;swal2-actions&quot;]/button[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>48c4d0ef-09b8-4a4d-bae5-a007b7769307</webElementGuid>
+      <webElementGuid>992aada5-a762-4af4-ae5d-6a840fbd5a3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>188dd58b-3354-4d93-aad9-befaba8cebd6</webElementGuid>
+      <webElementGuid>e3388eb0-ab3c-4499-bfa5-f33596813e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm btn tw-font-semibold tw-text-seagreen-700</value>
-      <webElementGuid>19ddfe58-e448-4b4e-8e10-74c6a6658f2b</webElementGuid>
+      <webElementGuid>061ee3ae-13fd-4cb9-9760-8307aa2db58f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đóng</value>
-      <webElementGuid>6e77b421-f35b-4c67-aeac-629aaca00c03</webElementGuid>
+      <webElementGuid>9b73afb0-3f76-488e-8a4c-cf41aad5e39c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm btn tw-font-semibold tw-text-seagreen-700&quot;]</value>
-      <webElementGuid>d3dad06c-8b5b-4c9c-834e-5c77eaf08f81</webElementGuid>
+      <webElementGuid>64393869-facf-44ff-b10a-1eaf519f7274</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[25]</value>
-      <webElementGuid>ad6eb189-5ddc-4378-8d66-8e49d51e051a</webElementGuid>
+      <webElementGuid>935654eb-bc6a-4cb1-97fa-6d6589238872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
-      <webElementGuid>d0e45329-5ae0-48a2-991c-0141cdaa4f90</webElementGuid>
+      <webElementGuid>cb828dbd-9365-496b-80dd-750d4f3d6a6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cập nhật iSAVING thành công'])[1]/following::button[3]</value>
-      <webElementGuid>7e68847e-444c-4572-ac5f-e1c6ebf3dd9f</webElementGuid>
+      <webElementGuid>a4c7adf3-b6cb-4f12-9711-ecc701e3f3ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đóng']/parent::*</value>
-      <webElementGuid>d4eb4286-2171-4ebc-b075-5ffc07d564b2</webElementGuid>
+      <webElementGuid>df455c1e-634c-41aa-8354-8a304b53e4cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button[3]</value>
-      <webElementGuid>24451492-537b-4884-bd54-5a8a1bf8f474</webElementGuid>
+      <webElementGuid>79af27e9-2c3f-46eb-ac3f-eed725835e8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Đóng' or . = 'Đóng')]</value>
-      <webElementGuid>030b071b-d891-4ad0-803f-720ac0bf4c6b</webElementGuid>
+      <webElementGuid>bca4d71f-057a-475d-a6b1-d336bd22b8e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>32d5653e-bfda-45f3-bf05-79d9028d0502</webElementGuid>
+      <webElementGuid>9e21a04f-c3b1-4af8-bf05-4cce5fe0dedc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='khớp tổng số tiền mà bạn chuyển vào 1 lệnh'])[1]/following::button[3]</value>
-      <webElementGuid>317e2d22-e063-4ef9-b303-1f94dcab6d8c</webElementGuid>
+      <webElementGuid>41bf7cb5-f907-41df-8a4d-a9f3eb24c405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>48651180-2f7c-497c-9e66-7196f305cbcf</webElementGuid>
+      <webElementGuid>c7576a17-d269-4464-9f4a-2e3b78331872</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

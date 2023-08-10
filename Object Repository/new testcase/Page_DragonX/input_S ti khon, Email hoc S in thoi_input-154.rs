@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_M PIN ng nhp_input-119</name>
+   <name>input_S ti khon, Email hoc S in thoi_input-154</name>
    <tag></tag>
-   <elementGuidId>d3a730d5-ec69-45b0-bec7-66349032b2aa</elementGuidId>
+   <elementGuidId>3c2d83aa-b2d3-46cf-ae50-5f100253f7af</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-119</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;idFormRequestOTP&quot;]/div/div/div[1]/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-119']</value>
+         <key>CSS</key>
+         <value>#input-154</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,62 +22,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9eb68743-af98-47df-bc68-4ef032b6cb7e</webElementGuid>
+      <webElementGuid>b43cce6b-919b-4b15-a469-f48ce556727a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-119</value>
-      <webElementGuid>949ea433-4470-4183-966e-5dfa316bbe1d</webElementGuid>
+      <value>input-154</value>
+      <webElementGuid>ec4c9018-f580-4176-ba8a-ad415e8c1d02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>ac506c4b-492d-4334-9558-b34519328359</webElementGuid>
+      <value>text</value>
+      <webElementGuid>c8016299-c753-4015-b760-60c32414124b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-119&quot;)</value>
-      <webElementGuid>2ba451da-2c66-4331-a303-4d35328f8d84</webElementGuid>
+      <value>id(&quot;input-154&quot;)</value>
+      <webElementGuid>733ede23-8fce-4e4b-b164-f95a99986fa8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-119']</value>
-      <webElementGuid>f11411c6-09b9-4509-998b-b98a888113af</webElementGuid>
+      <value>//input[@id='input-154']</value>
+      <webElementGuid>bb5344f1-7165-4432-b2fc-140e8d8e8774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='idFormLogin']/div[2]/div/div/div/input</value>
-      <webElementGuid>8603a814-91c7-498c-b3d3-96441a27f766</webElementGuid>
+      <value>//form[@id='idFormRequestOTP']/div/div/div/div/input</value>
+      <webElementGuid>59d2475d-ed55-45e8-a781-c35fb6ad9d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>dc9e6f0e-eb9f-4acd-ad42-827b92e64441</webElementGuid>
+      <value>//form/div/div/div/div/input</value>
+      <webElementGuid>d83a790c-aea2-48e9-ba38-151a7ed4daab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'input-119' and @type = 'password']</value>
-      <webElementGuid>a60f5418-b3d8-47b3-8198-cefe949b0d74</webElementGuid>
+      <value>//input[@id = 'input-154' and @type = 'text']</value>
+      <webElementGuid>dbd6a700-d5ba-4238-bd88-12cbae09a70d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

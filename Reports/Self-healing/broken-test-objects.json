@@ -159,6 +159,46 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_DragonX/span_Xc nhn - Huy lenh_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DragonX/span_Xc nhn",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div[4]/div/div/div[3]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Tiếp tục\u0027])[1]/following::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/new testcase/Page_DragonX/button_ng",
+      "brokenLocator": "//*[@id\u003d\"idFormRequestOTP\"]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/new testcase/Page_DragonX/button_ng_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/new testcase/Page_DragonX/input_S ti khon, Email hoc S in thoi_input-154",
+      "brokenLocator": "//input[@id\u003d\u0027input-154\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/new testcase/Page_DragonX/input_S ti khon, Email hoc S in thoi_input-154_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/new testcase/Page_DragonX/span_Xc nhn",
+      "brokenLocator": "//form[@id\u003d\u0027idFormRequestOTP\u0027]/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Số tài khoản, Email hoặc Số điện thoại\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

@@ -50,7 +50,7 @@ WebUI.click(findTestObject('Object Repository/Page_DragonX/Page_DragonX/span_t l
 
 WebUI.click(findTestObject('Object Repository/Page_DragonX/Page_DragonX/span_Bn'))
 
-WebUI.click(findTestObject('Object Repository/Page_DragonX/Page_DragonX/div_DCBF  16,75 CCQ  628.970'))
+WebUI.click(findTestObject('Page_DragonX/div_DCBF  14,75 CCQ  628.970'))
 
 WebUI.click(findTestObject('Page_DragonX/button_iSAVING'))
 

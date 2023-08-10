@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='idTradeContent']/div/div/div[2]</value>
+         <value>//*[@id=&quot;idTradeContent&quot;]/div[1]/div/div/p[text()[contains(.,&quot;DCBF&quot;)]]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c98724e7-b430-4df1-99cc-344be7291d2d</webElementGuid>
+      <webElementGuid>0db97ea8-a081-45b6-9f59-697daacee3c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>tw-bg</name>
       <type>Main</type>
       <value>white</value>
-      <webElementGuid>1cbf8dfe-f999-46e3-b177-1cdc0e0ef110</webElementGuid>
+      <webElementGuid>ff46a0b9-2101-4dec-966e-4ad55ae1b522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tw-border</name>
       <type>Main</type>
       <value>~ solid silver-200 rounded-lg</value>
-      <webElementGuid>4f1d161e-4e62-4a4f-b572-82567b2aa5f7</webElementGuid>
+      <webElementGuid>7bc60356-f04e-4f6e-91b9-ed1bc93d86b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tw-cursor</name>
       <type>Main</type>
       <value>pointer</value>
-      <webElementGuid>fb6c21c9-3c16-4518-bcd8-f1d194a8a6bb</webElementGuid>
+      <webElementGuid>57bc3953-26d5-48f3-b64f-404fe1c08365</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tw-flex</name>
       <type>Main</type>
       <value>~ 1 col</value>
-      <webElementGuid>2434ac27-911c-4ec3-a941-252c36c21e20</webElementGuid>
+      <webElementGuid>b588942e-499b-43b4-a278-a691349021d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>tw-p</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>096ef99a-19ac-4236-b47c-7bd2f8e7b269</webElementGuid>
+      <webElementGuid>bb8efc59-db18-4565-8cac-30c21179e450</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tw-pos</name>
       <type>Main</type>
       <value>relative</value>
-      <webElementGuid>16ec8da9-064e-4f67-bbf5-1ba070dbba18</webElementGuid>
+      <webElementGuid>15033dec-1387-46bf-bc38-dae7fef2ec34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>tw-shadow</name>
       <type>Main</type>
       <value>card</value>
-      <webElementGuid>885d5ac3-99cb-4e8f-917d-b3e4d81ce924</webElementGuid>
+      <webElementGuid>12f977b2-9a08-4d72-bc91-588cee91ba42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>tw-transition</name>
       <type>Main</type>
       <value>~ duration-200</value>
-      <webElementGuid>febde0f1-353e-4176-a761-2d0931371ae6</webElementGuid>
+      <webElementGuid>1409d6cf-a994-4d3d-89c2-8525731576da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>text</name>
       <type>Main</type>
       <value> DCBF  16,75 CCQ  ~628.970₫ </value>
-      <webElementGuid>2fd74f58-a904-40c7-870d-b6bf7e23226e</webElementGuid>
+      <webElementGuid>6449245a-90fe-4823-922a-f031d87b7a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;idTradeContent&quot;)/div[1]/div[1]/div[2]</value>
-      <webElementGuid>fc92c9f3-5964-435c-a0e2-6d73719a97a4</webElementGuid>
+      <webElementGuid>e7a91b41-b95f-4610-a779-4a457f079d69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='idTradeContent']/div/div/div[2]</value>
-      <webElementGuid>3eb2d0f0-2be1-46ac-86da-55e4568ef0f2</webElementGuid>
+      <webElementGuid>ee4dbcd7-7196-4804-9e82-645d61b4ae9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='~80.936₫'])[1]/following::div[1]</value>
-      <webElementGuid>11548e0f-8197-431e-8055-24c6b667fd5d</webElementGuid>
+      <webElementGuid>e2832cc2-856e-484c-98e4-5579f0b2715b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chuyển đổi'])[1]/following::div[6]</value>
-      <webElementGuid>89baa7a8-428b-4d25-af61-e46be93da5bc</webElementGuid>
+      <webElementGuid>c9e1f98c-7a27-4ebc-a73b-90ad2775f07c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='~1.037.708₫'])[1]/preceding::div[2]</value>
-      <webElementGuid>98cc1751-19e9-4d20-b053-a045e3c40aad</webElementGuid>
+      <webElementGuid>62a87bfe-4ebd-49be-b2ab-da1d203ce497</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/div[2]</value>
-      <webElementGuid>e0dbec75-bf9c-4095-bb8a-2e85e9064c3c</webElementGuid>
+      <webElementGuid>106f9d84-20ae-47dd-a341-4e8831eed978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' DCBF  16,75 CCQ  ~628.970₫ ' or . = ' DCBF  16,75 CCQ  ~628.970₫ ')]</value>
-      <webElementGuid>142e9cb1-0ff3-4268-ae07-b0b8cc0caa39</webElementGuid>
+      <webElementGuid>fc83ae15-e288-4e40-a65f-af60c277cdbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
